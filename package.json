@@ -1,0 +1,29 @@
+{
+  "name": "git-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzys1987/git-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzys1987/git-learning/issues"
+  },
+  "homepage": "https://github.com/krzys1987/git-learning#readme",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "html-validate": "^7.13.1",
+    "run-all": "^1.0.1",
+    "sass": "^1.57.1"
+  },
+  "dependencies": {
+    "touch-cli": "^0.0.1"
+  }
+}
